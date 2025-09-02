@@ -1,4 +1,3 @@
-<img width="987" height="630" alt="image" src="https://github.com/user-attachments/assets/7f05b9a2-311c-4999-a436-b2d342553965" />Lab-1-channel-characterization
 
 this a method to charaectrize a channel but to get the needed S21 from diffrential equation we need to derive it , it was derived from this link https://www.signalintegrityjournal.com/articles/1832-a-guide-for-singleended-to-mixedmode-s-parameter-
 conversions
