@@ -13,6 +13,11 @@ Autocorrelation occurs every 15 UI, which means that during each 15 UI interval 
 
 <img width="1917" height="661" alt="image" src="https://github.com/user-attachments/assets/1a6fc049-6376-4555-931f-158bb094ad06" />
 
+Equation used:
+
+<img width="551" height="51" alt="image" src="https://github.com/user-attachments/assets/ef6059ef-4d01-49be-b48c-498b6ac4db19" />
+
 sequence repetation :
 
 <img width="1660" height="673" alt="image" src="https://github.com/user-attachments/assets/433dd8d8-4fe3-431e-abb9-9a7283f422d1" />
+
