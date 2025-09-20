@@ -1,4 +1,4 @@
-<img width="1456" height="561" alt="image" src="https://github.com/user-attachments/assets/84fef636-e33c-4088-8789-2427769d7949" />
+<img width="1615" height="536" alt="image" src="https://github.com/user-attachments/assets/40208e49-83cf-43b4-8cbc-c125ef11eea8" /><img width="1456" height="561" alt="image" src="https://github.com/user-attachments/assets/84fef636-e33c-4088-8789-2427769d7949" />
 
 Pseudo Random Bit Sequence for a code of 4 bits : 
 
@@ -21,3 +21,20 @@ sequence repetation :
 
 <img width="1660" height="673" alt="image" src="https://github.com/user-attachments/assets/433dd8d8-4fe3-431e-abb9-9a7283f422d1" />
 
+PART-2:
+testing 6-inch of FR4:
+
+<img width="1615" height="536" alt="image" src="https://github.com/user-attachments/assets/c755aa7d-c485-4951-a68c-be893f0297d8" />
+
+1-inch of FR4:
+
+
+Eye diagram of unterminated in TX side :
+
+<img width="1349" height="568" alt="image" src="https://github.com/user-attachments/assets/54b4feaf-68f4-4e43-aabc-901bfcea5a14" />
+
+in blue that's losses due to reflection losses which causes verticale eye collapse 
+
+in orange that's frequency dependent losses
+
+in white that's cross talk losses ==> near and far end
