@@ -31,7 +31,9 @@ testing 6-inch of FR4:
 
 Eye diagram of unterminated in TX side :
 
-<img width="1349" height="568" alt="image" src="https://github.com/user-attachments/assets/54b4feaf-68f4-4e43-aabc-901bfcea5a14" />
+<img width="1349" height="568" alt="image" src="https://github.com/user-attachments/assets/54b4feaf-68f4-4e43-aabc-901bfcea5a14" />m
+<img width="788" height="683" alt="image" src="https://github.com/user-attachments/assets/cd7efc73-93a5-42a6-b9ba-e93cd4d0387f" />
+
 
 in blue that's losses due to reflection losses which causes verticale eye collapse 
 
