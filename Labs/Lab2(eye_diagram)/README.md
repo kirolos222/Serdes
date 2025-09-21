@@ -38,3 +38,21 @@ in blue that's losses due to reflection losses which causes verticale eye collap
 in orange that's frequency dependent losses
 
 in white that's cross talk losses ==> near and far end
+
+we see in the follwing graph the diffrential output with time jitter than the input
+
+<img width="1600" height="685" alt="image" src="https://github.com/user-attachments/assets/5c0d865e-6b9f-4ff5-a777-2b80e33df8e9" />
+
+
+WITH INPUT TERMINATION :
+
+we expect less swing as the 50 ohm cause voltage drop so it won't be as large swing as the one unterminated but expect less reflection.
+
+<img width="1905" height="613" alt="image" src="https://github.com/user-attachments/assets/4d9cb7e3-a04e-402d-864f-03d65271082c" />
+
+Eye diagram :
+
+<img width="1596" height="688" alt="image" src="https://github.com/user-attachments/assets/041726d7-fda0-4e3c-ad51-87b00a3990f2" />
+
+verticall collapse is less wider eye open less reflection:
+
